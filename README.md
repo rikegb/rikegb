@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rikegb 👋
+### Olá! Eu sou o Rikegb 
 - 🌱 Estudando Big Data
 
 <div align="center">

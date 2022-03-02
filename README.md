@@ -13,4 +13,4 @@
     <img align="right" alt="Rike-yoda" src="https://cdn.discordapp.com/attachments/948601107402354703/948602113443897454/mandalorian-baby-yoda.gif">
   </div>
      
-   ![Snake animation](https://github.com/rikegb/blob/output/github-contribution-grid-snake.svg)   
+   ![Snake animation](https://github.com/rikegb/rikegb/blob/output/github-contribution-grid-snake.svg)   

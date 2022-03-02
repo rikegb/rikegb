@@ -8,6 +8,7 @@
 </div>
 
 <div>
-   <a href = "mailto:contato.rikegb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rike-yoda" src="https://cdn.discordapp.com/attachments/948601107402354703/948602113443897454/mandalorian-baby-yoda.gif">
+    <a href = "https://www.instagram.com/rike_gb/"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href = "mailto:contato.rikegb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img align="right" alt="Rike-yoda" src="https://cdn.discordapp.com/attachments/948601107402354703/948602113443897454/mandalorian-baby-yoda.gif">
   </div>

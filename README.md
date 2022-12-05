@@ -10,7 +10,7 @@
    <img align="center" alt="Rike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rike-Angular" height="30" width="30" src="https://cdn.discordapp.com/attachments/948601107402354703/1049442319990009906/angular_logo_icon_169595.png">
-  <img align="center" alt="Rike-Ionic" height="30" width="70" src="https://cdn.discordapp.com/attachments/948601107402354703/1049442648609529866/2560px-Ionic_Logo.svg.png">
+  <img align="center" alt="Rike-Ionic" height="30" width="80" src="https://cdn.discordapp.com/attachments/948601107402354703/1049442648609529866/2560px-Ionic_Logo.svg.png">
   <img align="center" alt="Rike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
